@@ -1,0 +1,31 @@
+{
+  "bookId": "5",
+  "bookLink": "https://www.aozora.gr.jp/cards/000005/card5.html",
+  "titleData": {
+    "bookName": "あいびき",
+    "bookPronunciationName": "あいびき",
+    "authorName": "ツルゲーネフ イワン"
+  },
+  "artworkData": {
+    "classification": "NDC 983",
+    "characterType": "新字新仮名",
+    "remarks": ""
+  },
+  "artistData": {
+    "authorLink": "https://www.aozora.gr.jp/index_pages/person5.html",
+    "classification": "著者",
+    "authorId": "000005",
+    "authorName": "ツルゲーネフ イワン",
+    "authorPronunciationName": "ツルゲーネフ イワン",
+    "romajiNotation": "Turgenev, Ivan",
+    "aboutPeople": "「イワン・ツルゲーネフ」",
+    "wikiUrl": "http://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%AF%E3%83%B3%E3%83%BB%E3%83%84%E3%83%AB%E3%82%B2%E3%83%BC%E3%83%8D%E3%83%95"
+  },
+  "originalData": {},
+  "operatorData": {},
+  "downloadData": {
+    "textFile": "https://www.aozora.gr.jp/cards/000005/files/5_ruby_21311.zip",
+    "ebookFile": "https://www.aozora.gr.jp/cards/000005/files/5.ebk",
+    "xhtmlFile": "https://www.aozora.gr.jp/cards/000005/files/5_21310.html"
+  }
+}
